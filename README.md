@@ -24,7 +24,7 @@ W sekcji **Assets** pobierz archiwum **`AC2-Spolszczenie-Polish-Language-Mod.zip
 | `install.sh` | Instalator dla Linuksa z automatycznym wykonaniem kopii zapasowej. |
 | `README-PL.txt` | Dodatkowe informacje i instrukcja w języku polskim. |
 | Pliki `*_preview.png` | Podgląd zmodyfikowanych czcionek. |
-| `V4_report.json` | Techniczny raport zmian i sum kontrolnych dołączony do paczki. |
+| Plik `*_report.json` | Techniczny raport zmian i sum kontrolnych dołączony do paczki. |
 
 ## ✅ Wymagania
 
