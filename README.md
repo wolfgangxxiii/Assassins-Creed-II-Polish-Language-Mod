@@ -21,10 +21,24 @@ W sekcji **Assets** pobierz archiwum **`AC2-Spolszczenie-Polish-Language-Mod.zip
 | --- | --- |
 | `DataPC.forge` | Zasoby gry zawierające spolszczenie. |
 | `DataPC_extra.forge` | Zmodyfikowane zasoby, w tym poprawione czcionki. |
-| `install.sh` | Instalator dla Linuksa z automatycznym wykonaniem kopii zapasowej. |
+| [`install.sh`](install.sh) | Instalator dla Linuksa z automatycznym wykonaniem kopii zapasowej. |
 | `README-PL.txt` | Dodatkowe informacje i instrukcja w języku polskim. |
 | Pliki `*_preview.png` | Podgląd zmodyfikowanych czcionek. |
 | Plik `*_report.json` | Techniczny raport zmian i sum kontrolnych dołączony do paczki. |
+
+## 🖼️ Podgląd czcionek
+
+Poniższe obrazy przedstawiają zmodyfikowane atlasy znaków używane przez spolszczenie.
+
+| Light | Medium |
+| :---: | :---: |
+| ![Podgląd czcionki Light](docs/font-light.png) | ![Podgląd czcionki Medium](docs/font-medium.png) |
+
+## 📚 Pliki projektu
+
+- [`install.sh`](install.sh) — kod instalatora z automatyczną kopią zapasową.
+- [`CHANGELOG.md`](CHANGELOG.md) — historia zmian i znane ograniczenia.
+- [`NOTICE.md`](NOTICE.md) — informacje o prawach autorskich.
 
 ## ✅ Wymagania
 
